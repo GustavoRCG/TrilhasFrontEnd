@@ -1,0 +1,17 @@
+.cadastrar-usuario {
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  margin: 10px;
+  padding: 5px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.mensagem {
+  margin-top: 20px;
+}
