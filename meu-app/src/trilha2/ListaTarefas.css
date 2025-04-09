@@ -1,0 +1,23 @@
+.lista-tarefas {
+  text-align: center;
+  margin: 20px;
+}
+
+input {
+  margin-top: 10px;
+  padding: 5px;
+}
+
+button {
+  margin-left: 10px;
+  padding: 5px 10px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 5px 0;
+}
